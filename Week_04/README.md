@@ -2,7 +2,7 @@
 
 递归写法
 
-```
+```python
 #Python
 visited = set() 
 
@@ -22,7 +22,7 @@ def dfs(node, visited):
 
 非递归写法
 
-```
+```python
 #Python
 def DFS(self, tree): 
 
@@ -45,7 +45,7 @@ def DFS(self, tree):
 
 ### 广度优先搜索 (BFS)
 
-```
+```python
 # Python
 def BFS(graph, start, end):
     visited = set()
@@ -69,7 +69,7 @@ def BFS(graph, start, end):
 
 代码模版
 
-```
+```python
 # Python
 left, right = 0, len(array) - 1 
 while left <= right: 

@@ -2,7 +2,7 @@
 
 递归模版
 
-```
+```python
 # Python
 def recursion(level, param1, param2, ...): 
     # recursion terminator 
@@ -14,9 +14,9 @@ def recursion(level, param1, param2, ...):
     # drill down 
     self.recursion(level + 1, p1, ...) 
     # reverse the current level status if needed
-    
-Java 代码模板
+```
 
+```java
 // Java
 public void recur(int level, int param) { 
   // terminator 
@@ -31,12 +31,11 @@ public void recur(int level, int param) {
   // restore current status 
  
 }
-
 ```
 
 ### 分治、回溯
 
-```
+```python
 # Python
 def divide_conquer(problem, param1, param2, ...): 
   # recursion terminator 

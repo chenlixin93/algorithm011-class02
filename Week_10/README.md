@@ -8,15 +8,13 @@
 
 **打卡每日一题**
 
-![我的Leetcode(CN)](https://leetcode-cn.com/u/jasper-33/) 获得了八月份打卡勋章
+[我的Leetcode(CN)](https://leetcode-cn.com/u/jasper-33/) 获得了八月份打卡勋章
 
 ![image](https://github.com/chenlixin93/algorithm011-class02/blob/master/pics/aug.jpg)
 
 **我的Leetcode**
 
-![我的Leetcode(github)](https://github.com/chenlixin93/leetcode) 
-
-记录测试通过的 PHP 题解，获得一定的关注量
+[我的Leetcode(github)](https://github.com/chenlixin93/leetcode) 记录测试通过的 PHP 题解，获得一定的关注量
 
 ****
 
@@ -761,6 +759,8 @@ class LRUCache {
 https://www.cnblogs.com/onepixel/p/7674659.html
 
 ![image](https://github.com/chenlixin93/algorithm011-class02/blob/master/pics/%E5%8D%81%E5%A4%A7%E7%BB%8F%E5%85%B8%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.png)
+
+![image](https://github.com/chenlixin93/algorithm011-class02/blob/master/pics/%E7%AE%97%E6%B3%95%E5%A4%8D%E6%9D%82%E5%BA%A6.png)
 
 **快速排序**
 

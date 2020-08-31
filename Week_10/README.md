@@ -10,11 +10,15 @@
 
 - 五毒神掌
 
-    -- 第一遍：不要死磕，要看代码学习（一定要看国际版的高票回答）
-    -- 第二遍：自己写
-    -- 第三遍：24小时后
-    -- 第四遍：一周后
-    -- 第五遍：面试前
+   第一遍：不要死磕，要看代码学习（一定要看国际版的高票回答）
+   
+   第二遍：自己写
+   
+   第三遍：24小时后
+   
+   第四遍：一周后
+   
+   第五遍：面试前
 
 - 刻意练习 - 练习缺陷弱点地方、不舒服、枯燥
 
@@ -36,21 +40,21 @@
 
 - 一维：
 
-基础：数组 array (string), 链表 linked list
+	基础：数组 array (string), 链表 linked list
 
-高级：栈 stack, 队列 queue, 双端队列 deque, 集合 set, 映射 map (hash or map), etc
+	高级：栈 stack, 队列 queue, 双端队列 deque, 集合 set, 映射 map (hash or map), etc
 
 - 二维：
 
-基础：树 tree, 图 graph
+	基础：树 tree, 图 graph
 
-高级：二叉搜索树 binary search tree (red-black tree, AVL), 堆 heap, 并查集 disjoint set, 字典树 Trie, etc
+	高级：二叉搜索树 binary search tree (red-black tree, AVL), 堆 heap, 并查集 disjoint set, 字典树 Trie, etc
 
 - 特殊：
 
-位运算 Bitwise, 布隆过滤器 BloomFilter
+	位运算 Bitwise, 布隆过滤器 BloomFilter
 
-LRU Cache
+	LRU Cache
 
 ### 时间复杂度
 
@@ -872,8 +876,8 @@ public int myAtoi(String str) {
 
 2. Possible solutions：穷尽所有可能的解法
 
- - compare time/space
- - optimal solution
+	compare time/space
+	optimal solution
 
 3. Coding：代码简洁、高性能、美感
 

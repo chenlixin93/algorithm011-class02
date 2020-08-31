@@ -76,6 +76,8 @@
 
 https://www.bigocheatsheet.com/
 
+![image](https://github.com/chenlixin93/algorithm011-class02/blob/master/pics/bigo.jpg)
+
 ### 算法
 
 - If-else, switch —> branch
